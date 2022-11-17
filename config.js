@@ -68,7 +68,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285696693695'
-global.nomorown = '6285696693695'
+global.nomorown = '6285696508526'
 global.namebot = 'nusa.botz'
 global.nameown = 'nusa.mc'
 
@@ -145,7 +145,7 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By nusa.mc`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 nusa.mc」'
+global.author = '                「 nusa.botz」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
